@@ -1,0 +1,70 @@
+# STM32CubeMX generated files
+*.ioc
+*.mxproject
+
+# Keil MDK-ARM build output
+*.axf
+*.bak
+*.dep
+*.d
+*.lst
+*.map
+*.crf
+*.htm
+*.o
+*.lnp
+*.sct
+*.tra
+*.uvgui.*
+*.uvoptx
+*.uvprojx
+*.iex
+*.scvd
+
+# IAR EWARM build output
+EWARM/Settings/
+*.ewp
+*.ewd
+*.ewt
+*.ewd
+*.ewp
+*.eww
+*.dep
+*.hex
+*.map
+*.lst
+*.srec
+*.out
+*.bin
+*.elf
+*.pbd
+
+# Build folders
+Debug/
+Release/
+build/
+_build/
+output/
+
+# Object files and temp
+*.o
+*.obj
+*.d
+*.log
+*.tmp
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Auto-generated makefiles or scripts
+Makefile
+CMakeLists.txt.user
